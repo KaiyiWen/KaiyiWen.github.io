@@ -200,3 +200,5 @@ footer {
 }
 
 .term { color: var(--muted); font-size: 0.93rem; }
+
+.sep { color: var(--muted); margin: 0 0.45rem; opacity: 0.6; }
